@@ -6,5 +6,13 @@ Aplicativo mobile desenvolvido juntamente com Mariane Mazurega (https://github.c
 
 O Web Service desta aplicação se encontra no seguinte repositório:
 https://github.com/DiegoTeles/collabe_care
-
 O aplicativo encontra-se na versão 0.1 e a aplicação web em versão 0.1 (Última atualização em 12/03/2017)
+
+(c) 2017 autores:
+Diego Telles
+Mariane Mazurega
+Igor Franca
+Valeri Barreto
+Maite
+Licensiado sob os termos da licença GPL versao 3 ou posterior.
+
