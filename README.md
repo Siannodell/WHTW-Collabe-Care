@@ -1,4 +1,4 @@
-Aplicativo Mobile desenvolvido em 25 horas durante o Women's Health Tech Weekend, alcançando o prestígio de 3 melhor solução do hackaton, realizado nos dias 11/03 e 12/03.
+Aplicativo Mobile desenvolvido em 25 horas durante o Women's Health Tech Weekend, alcançando o prestígio de 3 melhor solução do hackathon, realizado nos dias 11/03 e 12/03.
 Nosso aplicativo tem como objetivo a cobertura do pré-natal e duvidas de mães que estão passando pela grávidez pela primeira vez, ou para mães que tem duvidas sobre os meses mais importantes da vida de alguém.
 Aplicativo mobile desenvolvido juntamente com Mariane Mazurega (https://github.com/Siannodell) e os outros membros sitados no repositório do web service
 
